@@ -6,6 +6,8 @@ use placement_list;
 -- AVG
 -- MIN
 -- MAX
+-- HAVING
+-- diff b/t WHERE and HAVING
 
 -- 1. query
 select count(*) as total_students
